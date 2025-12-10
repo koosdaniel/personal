@@ -41,9 +41,9 @@ Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel
 
 **The project in numbers:**
 
-- XX Completed Work Items
-- XX Implemented features
-- XX Fixed bugs
+- 300+ Completed Work Items
+- 150+ Implemented User Stories
+- 110+ Fixed Bugs
 
 ### Nov 2019 - Jun 2024<br>EPAM Systems l Debrecen, Hungary
 
@@ -250,3 +250,10 @@ University of Debrecen, Hungary
 
 - English: **B2+**
 - Hungarian: **native**
+
+## In My Free Time
+
+- Exploring Hungarian cities, watching exhibitions, musical and ballet acts
+- Reading books
+- Binge-watching series
+- Playing with my dachshund
