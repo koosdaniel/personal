@@ -12,7 +12,7 @@ Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel
 
 ## Experience
 
-### June 2024 - Jan 2026<br>Zenik Solutions Ltd. l Debrecen, Hungary
+### Jun 2024 - Jan 2026<br>Zenik Solutions Ltd. l Debrecen, Hungary
 
 #### Senior Software Engineer
 
@@ -45,11 +45,11 @@ Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel
 - XX Implemented features
 - XX Fixed bugs
 
-### Nov 2019 - June 2024<br>EPAM Systems l Debrecen, Hungary
+### Nov 2019 - Jun 2024<br>EPAM Systems l Debrecen, Hungary
 
 #### Senior Software Engineer
 
-**_Project #4 (Nov 2022 - 2024 June)_**
+**_Project #4 (Nov 2022 - Jun 2024)_**
 
 **Project Roles:** Key Developer, Deputy Team Lead
 
