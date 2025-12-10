@@ -33,7 +33,7 @@ Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel
 - Integrating the Next.js app with Azure Application Insights and enabling verbose logging.
 - Starting to actively use GitHub Copilot with Agent mode to help me with bugfixing and writing tests for my existing code.
 
-**Team:** 3 Front-End Developers, 3 Back-End Developers, 2 Test Automation Engineer, 1 Scrum Master, 2 Business Analysts, 1 UX Designer/Business Analyst, 1 DevOps Engineer
+**Team:** 3 Front-End Developers, 3 Back-End Developers, 2 Test Automation Engineers, 1 Scrum Master, 2 Business Analysts, 1 UX Designer/Business Analyst, 1 DevOps Engineer
 
 **Technologies:** Next.js, TypeScript, SWR, React Hook Form, Turborepo, Material UI, Tailwind CSS, Sass
 
