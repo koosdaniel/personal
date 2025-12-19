@@ -8,7 +8,7 @@ Accomplished professional with 12+ years of professional experience working in t
 
 ## Contact
 
-Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel.koos@gmail.com)** | Phone: **[+36 20 3114036](tel:+36203114036)** | LinkedIn: **[https://www.linkedin.com/in/koosdaniel](https://www.linkedin.com/in/koosdaniel)** | GitHub: **[https://github.com/koosdaniel](https://github.com/koosdaniel)**
+Location: **Debrecen, Hungary** | Email: **[koos.daniel@gmail.com](mailto:koos.daniel@gmail.com)** | Phone: **[+36 20 3114036](tel:+36203114036)** | LinkedIn: **[https://www.linkedin.com/in/koosdaniel](https://www.linkedin.com/in/koosdaniel)** | GitHub: **[https://github.com/koosdaniel](https://github.com/koosdaniel)**
 
 ## Experience
 
@@ -68,7 +68,7 @@ Location: **Debrecen, Hungary** | Email: **[daniel.koos@gmail.com](mailto:daniel
 
 **Technologies:** JavaScript, TypeScript, ReactJS, Redux, Redux Thunk, Redux Toolkit, React Router, Node.js, Express, Sass, SEO Tools, Accessibility Standards
 
-**Tools:** Jira, Bitbucket, Bamboo CI, JetBrains WebStorm, Redis, Webpack, Amazon Web Services, Docker
+**Tools:** Jira, Bitbucket, Bamboo CI, JetBrains WebStorm, Redis, Webpack, Amazon Web Services (AWS), Docker
 
 **_Project #3 (Aug 2021 - Oct 2022)_**
 
